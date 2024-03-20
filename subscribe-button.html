@@ -4,23 +4,47 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Subscribe!</title>
+  
+  <style>
+    p {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .subscribe-button {
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 20px;
+      padding: 10px 15px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .js-is-subscribed-button {
+      background-color: rgb(241, 241, 241);
+      color: black;
+    }
+  </style>
 </head>
 <body>
   <p>YouTube Subscribe Button</p>
 
   <button onclick="
     subscribe()"
-    class="js-subscribe-button">
+    class="js-subscribe-button subscribe-button">
     Subscribe
   </button>
+  
   <script>
     function subscribe() {
       const buttonElement = document.querySelector('.js-subscribe-button');
 
       if (buttonElement.innerText === 'Subscribe') {
         buttonElement.innerHTML = 'Subscribed';
+        buttonElement.classList.add('js-is-subscribed-button')
       } else {
         buttonElement.innerHTML = 'Subscribe';
+        buttonElement.classList.remove('js-is-subscribed-button');
       }
     }
   </script>
