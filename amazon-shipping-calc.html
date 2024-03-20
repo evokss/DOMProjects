@@ -35,9 +35,9 @@
 
   <button onclick="
     calculateCost();
-  " class="calculate-button";
+  " class="calculate-button"
   >Calculate</button>
-  <p class="js-total-cost-button"></p>
+  <p class="js-total-cost"></p>
 
   <script>
     function calculateCostKeydown() {
@@ -52,7 +52,7 @@
         cost += 10;
       }
 
-      const totalPrice = document.querySelector('.js-total-cost-button');
+      const totalPrice = document.querySelector('.js-total-cost');
       totalPrice.innerText = `$${cost}`;
     }
   </script>
