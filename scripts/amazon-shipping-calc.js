@@ -17,7 +17,7 @@ function calculateCost () {
         return
     } 
       
-    if (cost < 40) cost += 10;
+    if (cost <= 40) cost += 10;
     
     document.querySelector('.js-total-cost')
       .innerText = `$${cost}`;
