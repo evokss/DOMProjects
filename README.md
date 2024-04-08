@@ -1,6 +1,6 @@
 # Project Screenshots
 
-**Project 1: Amazon Shipping Calculator***
+***Project 1: Amazon Shipping Calculator***
 
 This project features a cost calculation and display system that responds to user input. <br>
 It incorporates an Enter key trigger for cost computation, ensuring that costs are always displayed accurately and never below $0. <br>
