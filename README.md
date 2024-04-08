@@ -13,7 +13,7 @@ Notably, it includes a feature where costs below or equal to $40 are adjusted wi
 ***Project 2: Switching Modes: Toggle Buttons***
 
 This project features a button toggle system enabling users to switch seamlessly between various modes using dedicated buttons. 
-By toggling a distinctive class (button-mode-on), the system visually highlights the active mode, ensuring clarity for users. 
+By toggling a distinctive class (button-mode-on), the system visually highlights the active mode, ensuring clarity for users. <br>
 Additionally, it manages previous mode deactivation, ensuring that only one mode remains active at any given time for a streamlined user experience.
 
 ![buttons](screenshots/buttons.jpg)
