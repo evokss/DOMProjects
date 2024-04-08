@@ -23,8 +23,8 @@ Additionally, it manages previous mode deactivation, ensuring that only one mode
 
 ***Project 3: Subscribe to YouTube Channel Button***
 
-This project showcases a dynamic Subscribe button for YouTube, demonstrating interactive web design. 
-Users can click the button to toggle between 'Subscribe' and 'Subscribed' states, visually indicating their subscription status. 
+This project showcases a dynamic Subscribe button for YouTube, demonstrating interactive web design. <br>
+Users can click the button to toggle between 'Subscribe' and 'Subscribed' states, visually indicating their subscription status. <br>
 The design features smooth transitions and clear visual feedback, enhancing user engagement and interaction on the web.
 
 <img src="screenshots/youtube-subscribe.jpg" alt="youtube-button" style="width: 350px;">
