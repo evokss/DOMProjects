@@ -27,6 +27,6 @@ This project showcases a dynamic Subscribe button for YouTube, demonstrating int
 Users can click the button to toggle between 'Subscribe' and 'Subscribed' states, visually indicating their subscription status. 
 The design features smooth transitions and clear visual feedback, enhancing user engagement and interaction on the web.
 
-![youtube-button](screenshots/youtube-subscribe.jpg)
-![youtube-button](screenshots/youtube-subscribed.jpg)
+<img src="screenshots/youtube-subscribe.jpg" alt="youtube-button" style="width: 350px;">
+<img src="screenshots/youtube-subscribed.jpg" alt="youtube-button" style="width: 350px;">
 
