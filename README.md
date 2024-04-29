@@ -9,7 +9,7 @@
 
 <img src="screenshots/todo-main.jpg" alt="todo-main" style="width: 500px;"><br>
 
-*Representation of Hover Effect:*
+• *Representation of Hover Effect:*
 
 <img src="screenshots/todo-hover-add-btn.jpg" alt="todo-hover-add-btn" style="width: 500px;"><br>
 <img src="screenshots/todo-hover-delete-btn.jpg" alt="todo-hover-delete-btn" style="width: 500px;">
