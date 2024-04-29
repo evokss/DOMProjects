@@ -3,7 +3,8 @@
 ## Project 1: My ToDo List ##
 
 *This project is a web-based productivity tool that allows users to create, display, and manage their personal todo items. <br>
-The application provides a user-friendly interface where users can input task names and due dates, and add them to a list. <br>
+The application is designed with a user-friendly interface, allowing users to effortlessly input task names along with their corresponding due dates. <br>
+Once entered, these tasks seamlessly integrate into a list, ensuring efficient organization and management of tasks. <br>
 The added tasks are displayed in a grid layout, with options to delete individual tasks as needed.* <br>
 
 <img src="screenshots/todo-main.jpg" alt="todo-main" style="width: 500px;"><br>
