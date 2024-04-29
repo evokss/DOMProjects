@@ -4,22 +4,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Amazon Shipping Calculator</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="styles/amazon-shipping-calc.css">
 </head>
 <body>
-  <p>Amazon Shipping Calculator</p>
-  <p>Orders under $40 = +10$ shipping.</p>
-  <p>Orders over $40 = FREE shipping.</p>
-
-  <input placeholder="Cost of order" class="js-input-element input-element" onkeydown="
-    calculateCostKeydown(event)">
-
-  <button onclick="
-    calculateCost();
-  " class="calculate-button"
-  >Calculate</button>
-  <p class="js-total-cost"></p>
-  <p class="js-error-message error-message"></p>
+  <main>
+    <article>
+      <div class="container">
+        <header>
+          <h1>Amazon Shipping Calculator</h1>
+        </header>
+        <section>
+          <p>Orders under $40 = +$10 shipping.</p>
+          <p>Orders over $40 = FREE shipping.</p>
+        </section>
+        <section>
+          <input
+            placeholder="Cost of order"
+            class="js-input-element input-element"
+            onkeydown="calculateCostKeydown(event)"
+          />
+          <button onclick="calculateCost()" class="calculate-button">
+            Calculate
+          </button>
+        </section>
+        <section>
+          <p class="js-total-cost total-cost"></p>
+          <p class="js-error-message error-message"></p>
+        </section>
+      </div>
+    </article>
+  </main>
 
   <script src="scripts/amazon-shipping-calc.js"></script>
 </body>
