@@ -1,6 +1,19 @@
 # Project Screenshots
 
-## Project 1: Amazon Shipping Calculator ##
+## Project 1: My ToDo List ##
+
+*This project is a web-based productivity tool that allows users to create, display, and manage their personal todo items. <br>
+The application provides a user-friendly interface where users can input task names and due dates, and add them to a list. <br>
+The added tasks are displayed in a grid layout, with options to delete individual tasks as needed.* <br>
+
+<img src="screenshots/todo-main.jpg" alt="todo-main" style="width: 500px;"><br>
+
+*Representation of Hover Effect:*
+
+<img src="screenshots/todo-hover-add-btn.jpg" alt="todo-hover-add-btn" style="width: 500px;"><br>
+<img src="screenshots/todo-hover-delete-btn.jpg" alt="todo-hover-delete-btn" style="width: 500px;">
+
+## Project 2: Amazon Shipping Calculator ##
 
 *This project features a cost calculation and display system that responds to user input. <br>
 It incorporates an Enter key trigger for cost computation, ensuring that costs are always displayed accurately and never below $0. <br>
@@ -10,7 +23,7 @@ Notably, it includes a feature where costs below or equal to $40 are adjusted wi
 <img src="screenshots/amazon-ship-calc-pdel.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
 <img src="screenshots/amazon-ship-calc-fdel.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
 
-## Project 2: Switching Modes: Toggle Buttons ##
+## Project 3: Switching Modes: Toggle Buttons ##
 
 *This project features a button toggle system enabling users to switch seamlessly between various modes using dedicated buttons. <br>
 By toggling a distinctive class (button-mode-on), the system visually highlights the active mode, ensuring clarity for users. <br>
@@ -21,7 +34,7 @@ Additionally, it manages previous mode deactivation, ensuring that only one mode
 ![buttons](screenshots/buttons-music.jpg)
 ![buttons](screenshots/buttons-gaming.jpg)
 
-## Project 3: Subscribe to YouTube Channel Button ##
+## Project 4: Subscribe to YouTube Channel Button ##
 
 *This project showcases a dynamic Subscribe button for YouTube, demonstrating interactive web design. <br>
 Users can click the button to toggle between 'Subscribe' and 'Subscribed' states, visually indicating their subscription status. <br>
