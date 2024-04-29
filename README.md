@@ -20,9 +20,10 @@ The added tasks are displayed in a grid layout, with options to delete individua
 It incorporates an Enter key trigger for cost computation, ensuring that costs are always displayed accurately and never below $0. <br>
 Notably, it includes a feature where costs below or equal to $40 are adjusted with a $10 minimum charge, enhancing the user experience in cost estimation.*
 
-<img src="screenshots/amazon-ship-calc.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
-<img src="screenshots/amazon-ship-calc-pdel.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
-<img src="screenshots/amazon-ship-calc-fdel.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
+<img src="screenshots/amazon-ship-calc-main.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
+<img src="screenshots/amazon-ship-calc-total_paid-ship.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
+<img src="screenshots/amazon-ship-calc-total_free-ship.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
+<img src="screenshots/amazon-ship-calc-error.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
 
 ## Project 3: Switching Modes: Toggle Buttons ##
 
