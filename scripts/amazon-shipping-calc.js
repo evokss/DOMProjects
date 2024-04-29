@@ -13,12 +13,13 @@ function calculateCost () {
 
     if (cost < 0) {
       document.querySelector('.js-error-message')
-        .innerText = 'Error: cost cannot be less than $0';
+        .innerText = `Please correct the cost. 
+          It cannot be less than $0.`;
         return
     } 
       
     if (cost <= 40) cost += 10;
     
     document.querySelector('.js-total-cost')
-      .innerText = `$${cost}`;
+      .innerText = `Your total cost: $${cost}`;
 }
