@@ -52,7 +52,7 @@ This project features a button toggle system enabling users to switch seamlessly
 ![buttons](screenshots/buttons-music.jpg)
 ![buttons](screenshots/buttons-gaming.jpg)
 
-## Project 4: Subscribe to YouTube Channel Button ##
+## Project 4: Subscribe to YouTube Channel ##
 
 This project showcases a dynamic Subscribe button for YouTube, demonstrating interactive web design. <br>
 
