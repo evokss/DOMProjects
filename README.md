@@ -63,6 +63,6 @@ This project showcases a dynamic Subscribe button for YouTube, demonstrating int
 > The design features smooth transitions and clear visual feedback, enhancing user engagement and interaction on the web.
 </details>
 
-<img src="screenshots/youtube-subscribe.jpg" alt="youtube-button" style="width: 350px;">
-<img src="screenshots/youtube-subscribed.jpg" alt="youtube-button" style="width: 350px;">
+<img src="screenshots/subscribe-btn.jpg" alt="youtube-button" style="width: 350px;">
+<img src="screenshots/subscribed-btn.jpg" alt="youtube-button" style="width: 350px;">
 
