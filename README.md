@@ -1,4 +1,4 @@
-# Project Screenshots
+# Project Summary
 
 ## Project 1: My ToDo List ##
 
