@@ -1,6 +1,6 @@
 # Project Summary
 
-## Application 1: My ToDo List ##
+## Application: My ToDo List ##
 
 This project is a web-based productivity tool that allows users to create, display, and manage their personal todo items. <br>
 
@@ -20,7 +20,7 @@ This project is a web-based productivity tool that allows users to create, displ
 <img src="screenshots/todo-hover-add-btn.jpg" alt="todo-hover-add-btn" style="width: 500px;"><br>
 <img src="screenshots/todo-hover-delete-btn.jpg" alt="todo-hover-delete-btn" style="width: 500px;">
 
-## Application 2: Amazon Shipping Calculator ##
+## Application: Amazon Shipping Calculator ##
 
 This project features a cost calculation and display system that responds to user input. <br>
 
@@ -36,7 +36,7 @@ This project features a cost calculation and display system that responds to use
 <img src="screenshots/amazon-ship-calc-total_free-ship.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
 <img src="screenshots/amazon-ship-calc-error.jpg" alt="amazon-shipping-calculator" style="width: 500px;">
 
-## Application 3: Switching Modes: Toggle Buttons ##
+## Application: Switching Modes: Toggle Buttons ##
 
 This project features a button toggle system enabling users to switch seamlessly between various modes using dedicated buttons. <br>
 
@@ -52,7 +52,7 @@ This project features a button toggle system enabling users to switch seamlessly
 ![buttons](screenshots/buttons-music.jpg)
 ![buttons](screenshots/buttons-gaming.jpg)
 
-## Application 4: Subscribe to YouTube Channel ##
+## Application: Subscribe to YouTube Channel ##
 
 This project showcases a dynamic Subscribe button for YouTube, demonstrating interactive web design. <br>
 
